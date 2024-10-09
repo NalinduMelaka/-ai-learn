@@ -4,15 +4,16 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [After Running the Command](#after-running-the-command)
-- [What to Do Next](#what-to-do-next)
-- [How It Works](#how-it-works)
-- [AI Assistance](#ai-assistance)
-- [Contributing](#contributing)
-- [License](#license)
+- [ai-learn](#ai-learn)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [After Running the Command](#after-running-the-command)
+  - [What to Do Next](#what-to-do-next)
+  - [How It Works](#how-it-works)
+  - [AI Assistance](#ai-assistance)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Features
 
@@ -30,44 +31,56 @@ You can install the package globally using npm:
 
 ```bash
 npm install -g ai-learn
-
+```
 
 Usage
 To use the CLI, run the following command in your terminal:
 
-  ai-learn
+```bash
+ai-learn
+```
 
-After Running the Command
-Input Prompt: Follow the prompts to input your main topic ([X]) and sub-topic ([Y]).
-Generated Output: The tool will generate a structured output that includes:
-Explanations
-Code examples
-Common misconceptions
-Real-world applications
-Exercises related to the topics you've chosen.
-Automatic Copying: The generated prompt will be automatically copied to your clipboard.
-What to Do Next
+## After Running the Command
+
+- \*\*Input Prompt: Follow the prompts to input your main topic ([X]) and sub-topic ([Y]).
+- \*\*Generated Output: The tool will generate a structured output that includes:
+- \*\*\*Explanations
+- \*\*\*Code examples
+- \*\*\*Common misconceptions
+- \*\*\*Real-world applications
+- \*\*\*Exercises related to the topics you've chosen.
+- \*\*Automatic Copying: The generated prompt will be automatically copied to your clipboard.
+
+## What to Do Next
+
 After running the command and receiving the output:
 
-Open your preferred AI tool, such as ChatGPT or Claude.
-Paste the copied prompt into the input field of the AI tool.
-Review the AI's response, which will provide you with further insights, examples, and clarifications on the topics you've chosen.
-How It Works
+1. Open your preferred AI tool, such as ChatGPT or Claude.
+2. Paste the copied prompt into the input field of the AI tool.
+3. Review the AI's response, which will provide you with further insights, examples, and clarifications on the topics you've chosen.
+
+## How It Works
+
 Upon running the CLI, you will be prompted to enter a main topic ([X]) and a sub-topic ([Y]). The tool generates a structured output tailored to your inputs. The generated prompt will be automatically copied to your clipboard for easy use in AI tools, allowing you to engage with AI for deeper exploration and understanding.
 
-AI Assistance
+## AI Assistance
+
 ai-learn not only provides structured information but also encourages users to engage with AI tools for further exploration and understanding. After receiving the generated prompt, you can easily paste it into AI tools like ChatGPT or Claude to gain deeper insights, clarify doubts, or receive additional examples and explanations.
 
-Contributing
-If you'd like to contribute to ai-learn, please feel free to open an issue or submit a pull request. Contributions are welcome!
+## Contributing
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
-License
+**If you'd like to contribute to ai-learn, please feel free to open an issue or submit a pull request. Contributions are welcome!**
+
+1.Fork the repository.
+2.Create a new branch (git checkout -b feature/YourFeature).
+3.Make your changes and commit them (git commit -m 'Add some feature').
+4.Push to the branch (git push origin feature/YourFeature).
+5.Open a pull request.
+
+## License
+
 This project is licensed under the MIT License.
 
+```
 
 ```
