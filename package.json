@@ -1,0 +1,20 @@
+{
+  "name": "ai-learn",
+  "version": "1.0.0",
+  "description": "A CLI for learning topics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "nlindu",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^4.0.0"
+  },
+  "bin": {
+    "ai-learn": "index.js"
+  }
+}
