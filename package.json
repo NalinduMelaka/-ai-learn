@@ -1,13 +1,19 @@
 {
   "name": "ai-learn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI for learning topics",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "CLI",
+    "learning",
+    "AI tools",
+    "programming",
+    "education"
+  ],
   "author": "nlindu",
   "license": "MIT",
   "dependencies": {

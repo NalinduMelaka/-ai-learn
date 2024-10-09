@@ -14,6 +14,7 @@
   - [AI Assistance](#ai-assistance)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Keywords](#keywords)
 
 ## Features
 
@@ -81,6 +82,6 @@ ai-learn not only provides structured information but also encourages users to e
 
 This project is licensed under the MIT License.
 
-```
+## Keywords
 
-```
+CLI, Learning, AI Tools, Programming, Education
